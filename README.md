@@ -13,10 +13,15 @@ This tool is a tool for catching usernames in the Tik Tok program By the name of
 
 # Steps to run :
 `pkg install update -y && pkg install upgrade -y `
+
 `pkg install python `
+
 `pip install requests`
+
 `pip install bs4`
+
 `chmod +x Checker-Turbo-tiktok.py`
+
 `python Checker-Turbo-tiktok.py`
 
 <><><><><><><><><><>
