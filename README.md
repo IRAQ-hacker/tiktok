@@ -32,7 +32,7 @@ but do not use your official account!
 
 <><><><><><><><><><>
 
-# اتبعني إلى الداخل:
+# Follow me :
 
 [![30%](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/iiwiw)
 
