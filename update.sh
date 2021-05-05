@@ -1,6 +1,5 @@
 #bin/bash
-clear
-echo
+
 echo "        Setting up first time installation just wait .....!"
 echo
 cd $HOME
